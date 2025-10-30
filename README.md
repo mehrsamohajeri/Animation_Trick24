@@ -4,7 +4,7 @@
        
 https://github.com/Mehrsa-Mohajeri-Developer/Animation_Trick24/assets/145048780/eb0b3a08-920b-433b-8ad4-7d16eaa9636d
     
-- 🔗 [Demo Project](https://mehrsa-mohajeri-developer.github.io/Animation_Trick24/)
+- 🔗 [Demo Project](https://mehrsamohajeri.github.io/Animation_Trick24/)
   
 - 👩🏻‍💻 Developed by Mehrsa Mohajeri 
 
